@@ -1,0 +1,37 @@
+* {
+  box-sizing: border-box;
+
+}
+.container{
+  margin: auto;
+  height: 500pt;
+  width: 300pt;
+  padding-top: 20pt;
+  padding-left: 27pt; 
+  border-color: #e0d7d7;
+  border-style: solid;
+  border-width: 1px;
+}
+
+
+p{
+  color: #224D4F;
+  font-family: 'Roboto', sans-serif;
+  font-size: 27pt;
+  padding-right: 50pt;
+  padding-top: 20pt;
+  }
+
+
+button{
+  position: absolute;
+  color: #FFFFFF;
+  background-color: #224D4F;
+  font-style: 'Roboto, Medium', sans-serif;
+  font-size: 15pt;
+  width: 140pt;
+  height: 50pt;
+  border: 0pt;
+  cursor: pointer;
+  margin: 173pt -120px;
+  }
