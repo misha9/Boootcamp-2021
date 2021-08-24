@@ -1,0 +1,113 @@
+.container{
+    padding:auto;
+    margin:auto;
+    width: 1440px;
+    height: 3936px;
+    border-width: 4px;
+    border-color: #f0eaea;
+    border-style: solid;
+    font-family: 'Roboto', sans-serif;
+    opacity: 1;
+  }
+
+#logo{
+    width: 79px;
+    height: 87px;
+    padding-left: 347px;
+    padding-right: 1014px;
+    padding-top: 47px;
+    opacity: 1;
+}
+
+#heading1{
+    width: 582px;
+    height: 249px;
+    text-align: left;
+    font-size: 42px;
+    font-weight: bold;
+    color: #111529;
+    padding-top: 34px;
+    padding-left: 347px;
+    opacity: 1;
+}
+
+#laptop{
+    width: 746px;
+    height: 498px;
+    padding-left: 347px;
+}
+
+#content{
+    width: 786px;
+    height: 358px;
+    color: var(--unnamed-color-000000);
+    text-align: left;
+    font-weight: normal;
+    color: #000000;
+    font-size: 24px;
+    padding-top: 50px;
+    padding-left: 347px;
+    opacity: 0.7;
+}
+
+#heading2{
+    width: 557px;
+    height: 32px;
+    color: var(--unnamed-color-111529);
+    text-align: left;
+    font-size: 28px;
+    color: #111529;
+    padding-left: 347px;
+    opacity: 1;
+    transform: translate(0%,-15%);
+}
+
+ol{
+    
+    width: 202px;
+    height: 28px;
+    color: var(--unnamed-color-111529);
+    text-align: left;
+    color: #111529;
+    font-size: 24px;
+    padding-left: 347px;
+    padding-bottom: 25px;
+    opacity: 1;
+    transform: translate(5%, 10%);
+}
+
+img.portfolio{
+    width: 746px;
+    height: 497px;
+    font-weight: normal;
+    padding-top:  30px;
+    padding-bottom: 40px;
+    opacity: 1;
+    transform: translate(-3%,0%);
+}
+
+.purplebox{
+    width: 1440px;
+    height: 360px;
+    background: #480E83;
+    padding-top: 56px;
+    opacity: 1;
+    transform: translate(0%,420%);
+}
+
+.button1{
+    width: 201px;
+    height: 72px;
+    background: #20C8B2;
+    padding-top: 3435px;
+    padding-left: 620px;
+    opacity:1
+}
+
+.lastbox{
+    width: 1440px;
+    height: 360px;
+    background: #FFFFFF;
+    opacity: 1;
+    transform: translate(0%,485%);
+}
