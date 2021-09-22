@@ -52,7 +52,7 @@ ul,li {
 
 .section1 {
 	background:url(../img/img1.png) no-repeat,  #0D1965; 
-	height: calc(100vh - 290px);
+	height: 36rem;
 	background-position: center top;
 	color: #A59CE4;
 }
