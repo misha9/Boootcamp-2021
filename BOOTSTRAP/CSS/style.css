@@ -140,14 +140,6 @@ ul,li {
 	background-color: #FD0E3E;
 	}
 
-/* .feature {
-	background-color: #FBD64F;
-	border-radius: 28px;
-	width: 452px;
-	height: 150px;
-    padding-top: 30px;
-	} */
-
 .roundImage {
 	width: 5.625rem;
 	height: 5.625rem;
@@ -178,7 +170,7 @@ ul,li {
 }
 
 .section4{
-	width: 190rem;
+	width: 90rem;
 	height: 50.438rem;
 }
 
